@@ -1,0 +1,13 @@
+{
+    "users": [
+        { "id": "23", "firstName": "Bill", "age": 24, "companyId": "1" },
+        { "id": "26", "firstName": "Tom", "age": 25, "companyId": "3" },
+        { "id": "42", "firstName": "Samantha", "age": 29, "companyId": "2" },
+        { "id": "65", "firstName": "George", "age": 32, "companyId": "3" }
+    ],
+    "companies": [
+        { "id": "1", "name": "Microsoft", "description": "Azure" },
+        { "id": "2", "name": "Amazon", "description": "AWS" },
+        { "id": "3", "name": "Google", "description": "GCP" }
+    ]
+}
